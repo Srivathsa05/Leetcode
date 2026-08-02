@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Srivathsa05/Leetcode/tree/master/0258-add-digits) |
+| [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Srivathsa05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -43,4 +45,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Srivathsa05/Leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
