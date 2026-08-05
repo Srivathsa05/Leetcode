@@ -24,6 +24,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Srivathsa05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/Srivathsa05/Leetcode/tree/master/0258-add-digits) |
+| [0441-arranging-coins](https://github.com/Srivathsa05/Leetcode/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Srivathsa05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Srivathsa05/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0441-arranging-coins](https://github.com/Srivathsa05/Leetcode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
