@@ -28,6 +28,7 @@
 | [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Srivathsa05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Srivathsa05/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Srivathsa05/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Srivathsa05/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
