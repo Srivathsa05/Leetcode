@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3731-find-missing-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3731-find-missing-elements) |
@@ -33,12 +34,14 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Srivathsa05/Leetcode/tree/master/0012-integer-to-roman) |
+| [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Srivathsa05/Leetcode/tree/master/0012-integer-to-roman) |
+| [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
