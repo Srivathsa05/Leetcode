@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srivathsa05/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Srivathsa05/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
