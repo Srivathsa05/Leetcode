@@ -77,10 +77,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Srivathsa05/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srivathsa05/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Srivathsa05/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srivathsa05/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Srivathsa05/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srivathsa05/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
