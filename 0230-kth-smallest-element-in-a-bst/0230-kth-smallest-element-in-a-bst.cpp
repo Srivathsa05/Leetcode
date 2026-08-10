@@ -1,20 +1,21 @@
 class Solution {
 public:
-    vector<int> nodes;
-
-    void traverse(TreeNode* root) {
-        if (root == NULL) return;
-
-        nodes.push_back(root->val);
-        traverse(root->left);
-        traverse(root->right);
-    }
+    int count = 0;
 
     int kthSmallest(TreeNode* root, int k) {
-        traverse(root);
+        if (root == NULL)
+            return -1;
 
-        sort(nodes.begin(), nodes.end());
+        int left = kthSmallest(root->left, k);
 
-        return nodes[k - 1];
+        if (left != -1)
+            return left;
+
+        count++;
+
+        if (count == k)
+            return root->val;
+
+        return kthSmallest(root->right, k);
     }
 };
