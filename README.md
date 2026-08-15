@@ -10,6 +10,7 @@
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srivathsa05/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srivathsa05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srivathsa05/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Srivathsa05/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srivathsa05/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
