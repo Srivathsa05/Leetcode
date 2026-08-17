@@ -8,6 +8,7 @@
 | [0561-array-partition](https://github.com/Srivathsa05/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Srivathsa05/Leetcode/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
