@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/Srivathsa05/Leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Srivathsa05/Leetcode/tree/master/0561-array-partition) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Srivathsa05/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Srivathsa05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srivathsa05/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
@@ -199,6 +201,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Srivathsa05/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
@@ -206,6 +209,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -214,6 +218,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Srivathsa05/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
