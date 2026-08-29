@@ -18,6 +18,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Srivathsa05/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srivathsa05/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srivathsa05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Srivathsa05/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -43,6 +44,7 @@
 | [0561-array-partition](https://github.com/Srivathsa05/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Srivathsa05/Leetcode/tree/master/0621-task-scheduler) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srivathsa05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3731-find-missing-elements) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
