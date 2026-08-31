@@ -249,6 +249,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Srivathsa05/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Srivathsa05/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
