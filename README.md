@@ -29,6 +29,7 @@
 | [3731-find-missing-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srivathsa05/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Srivathsa05/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -258,4 +259,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Srivathsa05/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Srivathsa05/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
