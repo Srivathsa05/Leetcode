@@ -12,6 +12,7 @@
 | [0621-task-scheduler](https://github.com/Srivathsa05/Leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Srivathsa05/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/Srivathsa05/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -259,6 +260,7 @@
 | [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Srivathsa05/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Srivathsa05/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
