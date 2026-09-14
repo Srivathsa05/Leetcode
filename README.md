@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Srivathsa05/Leetcode/tree/master/0012-integer-to-roman) |
+| [0223-rectangle-area](https://github.com/Srivathsa05/Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Srivathsa05/Leetcode/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/Srivathsa05/Leetcode/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/Srivathsa05/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -281,5 +282,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Srivathsa05/Leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Srivathsa05/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
