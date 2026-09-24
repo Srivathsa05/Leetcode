@@ -91,6 +91,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srivathsa05/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3612-process-string-with-special-operations-i](https://github.com/Srivathsa05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Srivathsa05/Leetcode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Srivathsa05/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Srivathsa05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
 | ------- |
