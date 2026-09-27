@@ -87,6 +87,7 @@
 | [0012-integer-to-roman](https://github.com/Srivathsa05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Srivathsa05/Leetcode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Srivathsa05/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1927-sum-game](https://github.com/Srivathsa05/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Srivathsa05/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -310,4 +312,8 @@
 |  |
 | ------- |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Srivathsa05/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
