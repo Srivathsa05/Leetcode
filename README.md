@@ -47,6 +47,7 @@
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srivathsa05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivathsa05/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -56,6 +57,7 @@
 | [0561-array-partition](https://github.com/Srivathsa05/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Srivathsa05/Leetcode/tree/master/0621-task-scheduler) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivathsa05/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Srivathsa05/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srivathsa05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -74,6 +76,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Srivathsa05/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Srivathsa05/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivathsa05/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srivathsa05/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Srivathsa05/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
