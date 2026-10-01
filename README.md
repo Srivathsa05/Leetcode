@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Srivathsa05/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Srivathsa05/Leetcode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -234,6 +235,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0020-valid-parentheses) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srivathsa05/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -329,6 +331,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
