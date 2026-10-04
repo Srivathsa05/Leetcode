@@ -98,6 +98,7 @@
 | [0020-valid-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Srivathsa05/Leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/Srivathsa05/Leetcode/tree/master/0091-decode-ways) |
 | [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Srivathsa05/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/Srivathsa05/Leetcode/tree/master/0091-decode-ways) |
 | [0542-01-matrix](https://github.com/Srivathsa05/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Srivathsa05/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
