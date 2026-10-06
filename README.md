@@ -16,6 +16,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/Srivathsa05/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0835-image-overlap](https://github.com/Srivathsa05/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Srivathsa05/Leetcode/tree/master/0877-stone-game) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Srivathsa05/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/Srivathsa05/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -104,6 +105,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Srivathsa05/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srivathsa05/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Srivathsa05/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Srivathsa05/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -121,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/Srivathsa05/Leetcode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/Srivathsa05/Leetcode/tree/master/0500-keyboard-row) |
 | [0621-task-scheduler](https://github.com/Srivathsa05/Leetcode/tree/master/0621-task-scheduler) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Srivathsa05/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Srivathsa05/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Srivathsa05/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srivathsa05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
