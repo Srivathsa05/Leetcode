@@ -37,6 +37,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srivathsa05/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srivathsa05/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Srivathsa05/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -149,6 +150,7 @@
 | [0258-add-digits](https://github.com/Srivathsa05/Leetcode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Srivathsa05/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Srivathsa05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
