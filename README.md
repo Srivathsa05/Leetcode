@@ -117,6 +117,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srivathsa05/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/Srivathsa05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3931-check-adjacent-digit-differences](https://github.com/Srivathsa05/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
 | ------- |
