@@ -21,6 +21,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/Srivathsa05/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srivathsa05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Srivathsa05/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Srivathsa05/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srivathsa05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -51,6 +52,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/Srivathsa05/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srivathsa05/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Srivathsa05/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Srivathsa05/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1927-sum-game](https://github.com/Srivathsa05/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srivathsa05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
