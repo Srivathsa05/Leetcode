@@ -107,6 +107,7 @@
 | [0856-score-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srivathsa05/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Srivathsa05/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1021-remove-outermost-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Srivathsa05/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -259,6 +260,7 @@
 | [0856-score-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srivathsa05/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Srivathsa05/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -358,6 +360,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Srivathsa05/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srivathsa05/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
