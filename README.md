@@ -227,6 +227,7 @@
 | [0197-rising-temperature](https://github.com/Srivathsa05/Leetcode/tree/master/0197-rising-temperature) |
 | [0585-investments-in-2016](https://github.com/Srivathsa05/Leetcode/tree/master/0585-investments-in-2016) |
 | [0608-tree-node](https://github.com/Srivathsa05/Leetcode/tree/master/0608-tree-node) |
+| [0620-not-boring-movies](https://github.com/Srivathsa05/Leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Srivathsa05/Leetcode/tree/master/1075-project-employees-i) |
 | [3436-find-valid-emails](https://github.com/Srivathsa05/Leetcode/tree/master/3436-find-valid-emails) |
 ## Binary Search Tree
