@@ -27,6 +27,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srivathsa05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Srivathsa05/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srivathsa05/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srivathsa05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -218,6 +219,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srivathsa05/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Srivathsa05/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
