@@ -98,6 +98,7 @@
 | [1927-sum-game](https://github.com/Srivathsa05/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivathsa05/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2409-count-days-spent-together](https://github.com/Srivathsa05/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Srivathsa05/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Srivathsa05/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -128,6 +129,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srivathsa05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Srivathsa05/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1927-sum-game](https://github.com/Srivathsa05/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Srivathsa05/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Srivathsa05/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
