@@ -37,6 +37,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Srivathsa05/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Srivathsa05/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Srivathsa05/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srivathsa05/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srivathsa05/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Srivathsa05/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -268,6 +269,7 @@
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Srivathsa05/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Srivathsa05/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -330,12 +332,14 @@
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -348,6 +352,7 @@
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Srivathsa05/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
