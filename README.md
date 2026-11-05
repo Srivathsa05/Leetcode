@@ -21,6 +21,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/Srivathsa05/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srivathsa05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Srivathsa05/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srivathsa05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Srivathsa05/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -78,6 +79,7 @@
 | [0561-array-partition](https://github.com/Srivathsa05/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Srivathsa05/Leetcode/tree/master/0621-task-scheduler) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srivathsa05/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srivathsa05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivathsa05/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Srivathsa05/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -204,6 +206,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Srivathsa05/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/Srivathsa05/Leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Srivathsa05/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srivathsa05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srivathsa05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Srivathsa05/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Bit Manipulation
@@ -387,6 +390,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srivathsa05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Srivathsa05/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Srivathsa05/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Bracket Sequences
