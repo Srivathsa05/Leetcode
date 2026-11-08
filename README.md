@@ -21,6 +21,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/Srivathsa05/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srivathsa05/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/Srivathsa05/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Srivathsa05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Srivathsa05/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srivathsa05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Srivathsa05/Leetcode/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/Srivathsa05/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Srivathsa05/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2029-stone-game-ix](https://github.com/Srivathsa05/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -279,6 +281,7 @@
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Srivathsa05/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1267-count-servers-that-communicate](https://github.com/Srivathsa05/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Srivathsa05/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
@@ -344,12 +347,14 @@
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Srivathsa05/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Srivathsa05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Srivathsa05/Leetcode/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/Srivathsa05/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -365,6 +370,7 @@
 | [0733-flood-fill](https://github.com/Srivathsa05/Leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Srivathsa05/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Srivathsa05/Leetcode/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Srivathsa05/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Srivathsa05/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
