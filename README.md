@@ -31,6 +31,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srivathsa05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Srivathsa05/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Srivathsa05/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srivathsa05/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -69,6 +70,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srivathsa05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivathsa05/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srivathsa05/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srivathsa05/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Srivathsa05/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -85,6 +87,7 @@
 | [2126-destroying-asteroids](https://github.com/Srivathsa05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivathsa05/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Srivathsa05/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Srivathsa05/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srivathsa05/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srivathsa05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
